@@ -25,7 +25,7 @@ const config = {
   phone: "+91 8500704493",
   education:
     "B.Tech in Computer Science & Engineering, DNR College of Engineering & Technology (JNTUK), Bhimavaram, Andhra Pradesh | CGPA: 7.74 | 2021 – 2025",
-  site: "https://your-vercel-link.vercel.app",
+  site: "https://karthikeya-portfolio-beta.vercel.app",
 
   // for github stars button
   githubUsername: "Karthikeyakatreddy",
